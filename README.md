@@ -7,8 +7,8 @@ In this Repository i will be storing data and evidence of my Personal Project.
 
 Objectives
 ----------
-- Arrange home lab network
 - Obtain all essential devices needed
+- Arrange home lab network (Using Network Topologies to maximise efficiency & Use a Hybrid Network Structure)
 - Successfully connect all devices to the routers, switches and server.
 -  Configure DHCP
 -  Set up DNS
@@ -19,7 +19,8 @@ Objectives
 
 Future Plans
 ------------
-- Planning the expansion of numnerous styles of network topologies as home networks which i will then connect as a LAN (Locan Area Network).
+- Planning the expansion of my home lab network by utilising different style network topologies to then connect as a LAN (Local Area Network)
+- Plan and implement the use of WAN links (Wide Area Network)
 
 
 
